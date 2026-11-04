@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+backtest
+/results/
+*.pt
+news_experiment/ and then git rm -r --cached news_experiment
+news_experiment/results/

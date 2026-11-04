@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+lightgbm
+torch
+matplotlib
+requests
+transformers
