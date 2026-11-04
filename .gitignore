@@ -7,3 +7,4 @@ backtest
 *.pt
 news_experiment/ and then git rm -r --cached news_experiment
 news_experiment/results/
+news_experiment/*.csv
